@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 * Composant 1
 * Composant 2
+* Composant 3
 
 ### Installation
 
